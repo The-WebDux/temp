@@ -5,6 +5,7 @@
 
 ### Installation
 ```bash
+$ sudo apt-get install sensors
 $ git clone https://github.com/vakh0/temp
 $ cd temp
 $ chmod +x temp.sh

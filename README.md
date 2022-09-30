@@ -8,6 +8,6 @@
 $ git clone https://github.com/vakh0/temp
 $ cd temp
 $ chmod +x temp.sh
-$ mv temp.sh /usr/bin/temp
+$ sudo mv temp.sh /usr/bin/temp
 ```
 

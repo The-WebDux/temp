@@ -1,5 +1,6 @@
 #!/usr/bin/bash
-# Coded by WebDux
+
+#Coded by - WebDux (vakh0) -
 
 a=$(echo "|-------[ TEMP ]------")
 b=$(sensors | grep 'CPU:\|fan1:')

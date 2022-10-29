@@ -11,6 +11,6 @@ $ sensors
 $ git clone https://github.com/vakh0/temp && cd temp && chmod +x temp.sh && sudo mv temp.sh /usr/bin/temp
 ```
 
-# Screenshots
-![Screen1]()
-![Screen2]()
+# სქრინები
+<img src="https://github.com/vakh0/temp/blob/main/1.png" width="325" height="125"></a>
+<img src="https://github.com/vakh0/temp/blob/main/2.png" width="325" height="125"></a>

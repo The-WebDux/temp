@@ -23,7 +23,7 @@ if [[ $strtemp < $limit ]]
 	else if [[ $strtemp > $limit ]]
     	then
 		echo -e "\e[33m" $a '\e[0m'
-		echo "  FAN:" ${myarray[1]} ${myarray[2]}
+		echo -e "  \033[93mFAN:" ${myarray[1]} ${myarray[2]}
     	echo -e "" "\033[31m" ${myarray[3]} ${myarray[4]}
     	echo -e "\e[33m" $c
 	fi
